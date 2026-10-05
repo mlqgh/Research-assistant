@@ -1,0 +1,15 @@
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-openai>=0.1.0
+langchain-text-splitters>=0.2.0
+langgraph>=0.1.0
+faiss-cpu>=1.8.0
+tavily-python>=0.3.0
+pydantic>=2.7.0
+python-dotenv>=1.0.0
+pypdf>=4.0.0
+langchain-groq>=0.1.0   
+langchain-huggingface>=0.1.0
+fastapi>=0.100.0
+rag-pipeline>=0.1.0
+     
